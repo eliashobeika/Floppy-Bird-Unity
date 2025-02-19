@@ -14,4 +14,4 @@ This is the tutorial I followed: https://youtu.be/XtQMytORBmM?si=q2Kz5-Hu6VNJNz7
 I chose it because it focuses on teaching you the basics more so than completing a project. In fact, the game isn't finished at the end of the tutorial. The youtuber encourages you to add a list of features on your
 own at the end of the video to finish and refine the game (you can check said video's last section: "Next steps"), which I did.
 
-Play the game: 
+Play the game here: https://eliashobeika.github.io/Floppy-Bird-Unity-WebGLBuild/
